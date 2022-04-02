@@ -1,6 +1,2 @@
 start chrome "https://www.youtube.com/watch?v=FVFBL1UxM_k&t=31s" 
-1
-2
-3
 start chrome "https://www.youtube.com/watch?v=FVFBL1UxM_k&t=31s" 
-5
