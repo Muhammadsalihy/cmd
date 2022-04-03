@@ -1,2 +1,2 @@
-start chrome "https://www.youtube.com/watch?v=FVFBL1UxM_k&t=31s" 
-start msedge "https://www.youtube.com/watch?v=FVFBL1UxM_k&t=31s"
+start chrome "https://www.youtube.com/watch?v=FVFBL1UxM_k&list=PLyUyVUEafmWNw9VolIWn7Tar60nRETJ5Y" 
+start msedge "https://www.youtube.com/watch?v=FVFBL1UxM_k&list=PLyUyVUEafmWNw9VolIWn7Tar60nRETJ5Y"
