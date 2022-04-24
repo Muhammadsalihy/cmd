@@ -6,7 +6,8 @@
         "time":"must be time for minute to youtube play",
         "update":"in this line should be link of download",
         "update2":"in this line must be name of download file",
-        "update3":"last name of programe for delete "
+        "update3":"last name of programe for kill process ",
+        "update4":"the last app name for delete"
     },
     "website":
         {
@@ -31,7 +32,8 @@
         
         "1":"https://raw.githubusercontent.com/Muhammadsalihy/cmd/main/pathURL.txt",
         "2":"pathURL.txt",
-        "3":"notpade.exe"
+        "3":"notpade.exe",
+        "4":""
     }
 
 }
