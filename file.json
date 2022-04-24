@@ -1,0 +1,37 @@
+{
+    "comment":
+    {
+        "website":"must be link of youtube video",
+        "cmd":"must be cmd command want run",
+        "time":"must be time for minute to youtube play",
+        "update":"in this line should be link of download",
+        "update2":"in this line must be name of download file",
+        "update3":"last name of programe for delete "
+    },
+    "website":
+        {
+            "1":"www.google.com",
+            "2":""
+            
+        }
+    ,
+
+    "cmd":
+    {
+        "1":"notepad",
+        "2":""
+    },
+
+    "time":
+    {
+        "1":4
+    },
+    "update":
+    {
+        
+        "1":"",
+        "2":"",
+        "3":""
+    }
+
+}
