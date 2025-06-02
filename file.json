@@ -20,7 +20,9 @@
     "cmd":
     {
         "1":"ping 127.0.0.1",
-        "2":"where python"
+        "2":"where python",
+        "3":"d:",
+        "4":"dir"
     },
 
     "time":
