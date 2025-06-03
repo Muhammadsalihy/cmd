@@ -12,17 +12,15 @@
     "website":
         {
             "youtube":"https://www.youtube.com/watch?v=8RPoGeYEW4M",
-            "telegram":"https://t.me/+auHvpYzef5xhYmFl"
+            "telegram":""
             
         }
     ,
 
     "cmd":
     {
-        "1":"ping 127.0.0.1",
-        "2":"where python",
-        "3":"d:",
-        "4":"dir"
+        "1":"",
+        "2":""
     },
 
     "time":
